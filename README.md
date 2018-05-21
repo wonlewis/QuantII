@@ -1,7 +1,7 @@
 # QuantII
 Project on effect of lobbying on FTC initiation of investigation
 
-I scrame data from 3 sources. 
+I scrape data from 3 sources. 
 
 1. FTC enforcement rulings: https://www.ftc.gov/enforcement/cases-proceedings?items_per_page=100. Each individual case is listed as a single entry on the FTC website. Data is scraped using Python, and the python code is found in FTC_web.py. All entries from the webite are scraped. The code generates a csv file called all_FTC_results.csv 
 
